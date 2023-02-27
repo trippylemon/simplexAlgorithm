@@ -1,3 +1,5 @@
+#This file contains the main menu class and its methods.
+
 import utils
 from table import tableau
 from simplex import simplex_method
