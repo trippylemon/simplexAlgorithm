@@ -1,3 +1,5 @@
+#initialization of tableau for the simplex algorithm
+
 import utils
 
 class tableau(object):
